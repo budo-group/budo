@@ -6,4 +6,12 @@
     <groupId>budo</groupId>
     <artifactId>budo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.antlr</groupId>
+            <artifactId>antlr4-runtime</artifactId>
+            <version>4.2.2</version>
+        </dependency>
+    </dependencies>
 </project>
